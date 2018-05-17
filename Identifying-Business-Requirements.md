@@ -3,6 +3,7 @@
 Use the information in this section to analyze and evaluate your organization's business requirements.  
 
 Your business requirements drive the underlying security architecture of your Azure cloud services. Use a holistic approach in your analysis.  
+
 Use the analysis results from the list below in tandem with the feedback from your LOBs to design and build the security framework of your cloud infrastructure 
 
 
