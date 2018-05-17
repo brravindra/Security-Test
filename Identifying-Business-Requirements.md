@@ -18,7 +18,7 @@ Use the analysis results from the list below in tandem with the feedback from yo
  
 ## Next steps 
 
-Evaluating your Security Policies 
+[Evaluating your Security Policies](https://github.com/nmcgregor/Security-Test/blob/1.0-Identifying-your-Business-Requirements/Evaluating-Your-On-Premises-Security-Policies.md) 
 
 Evaluating your Compliance Policies 
 
