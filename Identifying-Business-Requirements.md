@@ -1,4 +1,4 @@
-#1.0  Identifying your Business Requirements 
+# 1.0  Identifying your Business Requirements 
 
 Use the information in this section to analyze and evaluate your organization's business requirements.  
 
@@ -15,9 +15,10 @@ Use the analysis results from the list below in tandem with the feedback from yo
 
 
  
-Next steps 
+## Next steps 
 
 Evaluating your Security Policies 
+
 Evaluating your Compliance Policies 
 
 
