@@ -19,10 +19,10 @@ A security policy comprises of objectives for your organization, rules for your 
 
 ## Guidance 
 
-- [Determine the security policies](http://www.msn.com) around your existing systems and applications 
-Determine your identity and access management security policies 
-Determine your data protection policies 
-Determine your network security policies 
+- Determine the security policies around your existing systems and applications 
+- Determine your identity and access management security policies 
+- Determine your data protection policies 
+- Determine your network security policies 
 
 ## Next steps 
 
