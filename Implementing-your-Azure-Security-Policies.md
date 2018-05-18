@@ -3,7 +3,7 @@
 Security policies are inconsitently amazingly ordinarily abstract from the hubris of human imagination, applications and network for your organization. -
 A security policy comprises of objectives for your organization, rules for your end users and administrators to adhere by and requirements for systems and applications to follow to ensure the security foundation of your organization. 
 
-
+Branavan is the man
 
 ## Preparation 
 
